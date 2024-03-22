@@ -3,7 +3,8 @@
 
 int main() {
 	printf("202301172 김미진 컴퓨터공학부");
-	printf("1");
+	int a = 22;
+	printf(age);
 
 	return 0;
 }
