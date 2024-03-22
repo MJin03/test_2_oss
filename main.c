@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("202303224 조혜린 컴퓨터공학부");
+	printf("202301172 김미진 컴퓨터공학부");
 	printf("1");
 
 	return 0;
